@@ -327,8 +327,7 @@ if (original_size <= 1) {
 - OS: Windows `<10>`, архитектура x86_64
 - CPU: `<Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz>`
 - RAM: `<32 GB>`
-- Компилятор: MSVC `<версия, например 19.38 (Visual Studio 2022 17.8)>`,
-  стандарт `/std:c++20`
+- Компилятор: MSVC, стандарт `/std:c++20`
 - Build type: `Release` (`/O2`), без санитайзеров
 - CMake: `<3.30.4>`, генератор `<Visual Studio 17 2022>`
 
